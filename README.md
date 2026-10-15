@@ -37,7 +37,7 @@ The dataset includes life evaluation scores, rankings, confidence-interval bound
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Global_Wellbeing_Explorer.git
+git clone https://github.com/RiyaGirdhar30/Global_Wellbeing_Explorer.git
 cd Global_Wellbeing_Explorer
 ```
 
