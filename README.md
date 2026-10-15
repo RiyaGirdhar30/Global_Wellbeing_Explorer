@@ -41,8 +41,6 @@ git clone https://github.com/RiyaGirdhar30/Global_Wellbeing_Explorer.git
 cd Global_Wellbeing_Explorer
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
-
 ### 2. Create a virtual environment
 
 ```bash
